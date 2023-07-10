@@ -1,0 +1,50 @@
+
+
+body {
+    width: 1200px;
+    margin: auto;
+}
+
+.about-house {
+    width: 400px;
+}
+
+.about-house-title {
+    font-size: 50px;
+}
+
+.about-house-text {
+    font-size: 20px;
+}
+
+.help-title {
+    text-align: center;
+    color: #ff0;
+    font-size: 60px;
+}
+
+.help-subtitle {
+    font-size: 30px;
+}
+
+.help-text {
+    font-size: 20px;
+}
+
+.help-ul {
+    list-style-type: decimal;
+}
+
+.help-list {
+    width: 375px;
+}
+
+.help-list::marker {
+    color: #ff0;
+    font-size: 50px;
+}
+
+.help-list-500 {
+    width: 500px;
+}
+
