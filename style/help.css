@@ -1,0 +1,31 @@
+
+.help__title {
+    text-align: center;
+    color: #ff0;
+    font-size: 60px;
+}
+
+.help__subtitle {
+    font-size: 30px;
+}
+
+.help__text {
+    font-size: 20px;
+}
+
+.help__list {
+    list-style-type: decimal;
+}
+
+.help__item {
+    width: 375px;
+}
+
+.help__item::marker {
+    color: #ff0;
+    font-size: 50px;
+}
+
+.help__item_500 {
+    width: 500px;
+}

@@ -1,3 +1,6 @@
+@import "about.css";
+@import "help.css";
+@import "volunteer.css";
 
 @font-face {
     font-family: "Comfortaa";
@@ -23,46 +26,6 @@ h2 {
     font-weight: 400;
 }
 
-.about-house {
-    width: 400px;
+li {
+    list-style-type: none;
 }
-
-.about-house-title {
-    font-size: 50px;
-}
-
-.about-house-text {
-    font-size: 20px;
-}
-
-.help-title {
-    text-align: center;
-    color: #ff0;
-    font-size: 60px;
-}
-
-.help-subtitle {
-    font-size: 30px;
-}
-
-.help-text {
-    font-size: 20px;
-}
-
-.help-ul {
-    list-style-type: decimal;
-}
-
-.help-list {
-    width: 375px;
-}
-
-.help-list::marker {
-    color: #ff0;
-    font-size: 50px;
-}
-
-.help-list-500 {
-    width: 500px;
-}
-
